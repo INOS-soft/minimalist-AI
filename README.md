@@ -22,4 +22,4 @@ const Counter = () => {
 render(<Counter />);
 ]
  > Rscript analysis.R
-Rscript Analysis.Py
+} Rscript Analysis.Py
