@@ -3,7 +3,7 @@
 [import React, {useState, useEffect} from 'react';
 import {render, Text} from 'ink';
 
-const Counter = () => {
+const Counter = (https://github.com/libgdx/libgdx/wiki/Project-setup,-running-&-debugging) => {
 	const [counter, setCounter] = useState(201);
 
 	useEffect(() => {
