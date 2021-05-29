@@ -4,7 +4,7 @@
 import {render, Text} from 'ink';
 
 const Counter = () => {
-	const [counter, setCounter] = useState(0);
+	const [counter, setCounter] = useState(201);
 
 	useEffect(() => {
 		const timer = setInterval(() => {
