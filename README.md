@@ -6,7 +6,9 @@ import {render, Text} from 'ink';
 const Counter = (https://github.com/libgdx/libgdx/wiki/Project-setup,-running-&-debugging) => {
 	const [counter, setCounter] = useState(201);
 
-	useEffect(() => {
+	useEffect((- name: Jira issue from TODO
+  uses: atlassian/gajira-todo@v2.0.1
+) => {
 		const timer = setInterval(() => {
 			setCounter(previousCounter => previousCounter + 1);
 		}, 300);
