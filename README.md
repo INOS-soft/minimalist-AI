@@ -29,6 +29,38 @@ render(- name: Jira Find issue key
 ]
  > Rscript analysis.R
 } Rscript Analysis.Py
+//UserRoutes.js
+
+const { helpers } = require('express-helpers');
+
+UserRoutes = {};
+
+//`routes` needs to be accessible on the module
+UserRoutes.routes = {
+    get: [
+      { path: '/user/:email',
+        funcs: [
+          someMiddleWare,
+          helpers.awaitHandlerFactory(async (req, res, next) => {
+            const result = await someAsyncProcess();
+          }),
+          anotherFunction(req, res, next)
+        ]
+      }
+    ],
+    post: [
+      { path: '/user',
+        funcs: [
+          helpers.awaitHandlerFactory(async (req, res, next) => {
+            //lots of awesome code
+          });
+        ]
+      }
+    ]
+};
+
+module.exports = UserRoutes;
+
 
 - name: Jira issue from TODO
   uses: atlassian/gajira-todo@v2.0.1
