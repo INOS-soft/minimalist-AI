@@ -28,3 +28,5 @@ render(<Counter />);
   uses: atlassian/gajira-todo@v2.0.1
 - name: Jira Issue Transition
   uses: atlassian/gajira-transition@v2.0.2
+- name: Create IssueHunt comment for opened issues
+  uses: goatandsheep/issuehunt-action@v1.0.0
