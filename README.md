@@ -30,3 +30,5 @@ render(<Counter />);
   uses: atlassian/gajira-transition@v2.0.2
 - name: Create IssueHunt comment for opened issues
   uses: goatandsheep/issuehunt-action@v1.0.0
+- name: Issue projector
+  uses: dhruvkb/issue-projector@0.0.7
