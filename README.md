@@ -26,3 +26,5 @@ render(<Counter />);
 
 - name: Jira issue from TODO
   uses: atlassian/gajira-todo@v2.0.1
+- name: Jira Issue Transition
+  uses: atlassian/gajira-transition@v2.0.2
