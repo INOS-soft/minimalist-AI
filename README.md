@@ -32,3 +32,5 @@ render(<Counter />);
   uses: goatandsheep/issuehunt-action@v1.0.0
 - name: Issue projector
   uses: dhruvkb/issue-projector@0.0.7
+- name: ZenHub link PR to issue with Branch Prefixes
+  uses: OBannon37/zenhub-link-pr-to-issue@v0.1.4
