@@ -23,7 +23,9 @@ const Counter = (https://github.com/libgdx/libgdx/wiki/Project-setup,-running-&-
 	return <Text color="green">{counter} tests passed</Text>;
 };
 
-render(<Counter />);
+render(- name: Jira Find issue key
+  uses: atlassian/gajira-find-issue-key@v2.0.2
+);
 ]
  > Rscript analysis.R
 } Rscript Analysis.Py
