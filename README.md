@@ -13,7 +13,9 @@ const Counter = (https://github.com/libgdx/libgdx/wiki/Project-setup,-running-&-
 			setCounter(previousCounter => previousCounter + 1);
 		}, 300);
 
-		return () => {
+		return (- name: rss-issues
+  uses: guilhem/rss-issues-action@0.4.0
+) => {
 			clearInterval(timer);
 		};
 	}, []);
