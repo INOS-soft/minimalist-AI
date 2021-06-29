@@ -95,10 +95,10 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@octokit/auth-app@^3.5.2":
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/@octokit/auth-app/-/auth-app-3.5.2.tgz#28a6b95b2a8585e14eed8e7670c136fc27849bdd"
-  integrity sha512-IVgh3UmnJlLRmt5vAhhWqdzlnPo7wKBXXA5NRNyXPpa5bokY29Us6Qt/D33K7umH3xJ6QZLB5USByaMIHTmgOA==
+"@octokit/auth-app@^3.5.3":
+  version "3.5.3"
+  resolved "https://registry.yarnpkg.com/@octokit/auth-app/-/auth-app-3.5.3.tgz#078a552b04141c8e0933989ab6bf8125961742d7"
+  integrity sha512-KB5pZCQ3lN9U47+dTAPlyzQO4bFwaaJClnMI2vOYJC0HPm7mGxZ1m/xG7Tk2rn6g07Ei6n06vYoWvuuuHYkXNA==
   dependencies:
     "@octokit/auth-oauth-app" "^4.3.0"
     "@octokit/auth-oauth-user" "^1.2.3"
