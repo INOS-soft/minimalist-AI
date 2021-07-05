@@ -63,7 +63,7 @@
     "semver": "^7.3.5",
     "shx": "^0.3.2",
     "standard-markdown": "^6.0.0",
-    "stream-json": "^1.7.1",
+    "stream-json": "^1.7.2",
     "sumchecker": "^3.0.1",
     "tap-xunit": "^2.4.1",
     "temp": "^0.9.4",
