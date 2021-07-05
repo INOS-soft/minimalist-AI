@@ -607,10 +607,10 @@
     "@types/node" "*"
     "@types/stream-chain" "*"
 
-"@types/temp@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@types/temp/-/temp-0.9.0.tgz#d0e52b6b63d4153680f7b11d0c8861da6b56d904"
-  integrity sha512-UPoFCczcfwFjlopS9hDP6QR3oqng1YnRyKQSDNNFRAUurRaxV8FIjRbvT7Q2Co2zpXh23CEPEx1pKuITHnFQIA==
+"@types/temp@^0.9.1":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@types/temp/-/temp-0.9.1.tgz#448560fbe6235b521778367c26208e784f15adb1"
+  integrity sha512-yDQ8Y+oQi9V7VkexwE6NBSVyNuyNFeGI275yWXASc2DjmxNicMi9O50KxDpNlST1kBbV9jKYBHGXhgNYFMPqtA==
   dependencies:
     "@types/node" "*"
 
