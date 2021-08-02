@@ -5,7 +5,7 @@
   "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
   "devDependencies": {
     "@electron/docs-parser": "^0.12.1",
-    "@electron/typescript-definitions": "^8.8.0",
+    "@electron/typescript-definitions": "^8.9.5",
     "@octokit/auth-app": "^3.5.2",
     "@octokit/rest": "^18.6.2",
     "@primer/octicons": "^14.2.2",
