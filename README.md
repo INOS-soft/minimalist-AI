@@ -33,6 +33,10 @@ render(- name: Jira Find issue key
 
 const { helpers } = require('express-helpers');
 
+- name: ansible-lint
+  uses: ansible/ansible-lint-action@v4.1.0.post0
+
+
 UserRoutes = {};
 
 //`routes` needs to be accessible on the module
