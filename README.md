@@ -1,87 +1,32 @@
-# Super-Ghcz-master
-[SonjayaJetBrain/legendary-memory-octo-garbango-guanzo]
-[import React, {useState, useEffect} from 'react';
-import {render, Text} from 'ink';
+React Autocomplete
+==================
 
-const Counter = (https://github.com/libgdx/libgdx/wiki/Project-setup,-running-&-debugging) => {
-	const [counter, setCounter] = useState(201);
+Accessible, extensible, Autocomplete for React.js.
 
-	useEffect((- name: Jira issue from TODO
-  uses: atlassian/gajira-todo@v2.0.1
-) => {
-		const timer = setInterval(() => {
-			setCounter(previousCounter => previousCounter + 1);
-		}, 300);
+[![Travis build status](http://img.shields.io/travis/reactjs/react-autocomplete.svg?style=flat)](https://travis-ci.org/reactjs/react-autocomplete/)
 
-		return (- name: rss-issues
-  uses: guilhem/rss-issues-action@0.4.0
-) => {
-			clearInterval(timer);
-		};
-	}, []);
+Docs coming soon, for now just look at the `propTypes` and [examples](https://reactjs.github.io/react-autocomplete/) :)
 
-	return <Text color="green">{counter} tests passed</Text>;
-};
+Trying to settle on the right API, and then focus hard on accessibility,
+there are a few missing bits right now.
 
-render(- name: Jira Find issue key
-  uses: atlassian/gajira-find-issue-key@v2.0.2
-);
-]
- > Rscript analysis.R
-} Rscript Analysis.Py
-//UserRoutes.js
+Stuff we need help with:
 
-const { helpers } = require('express-helpers');
+- mobile support verification generally
+- default mobile styles/positioniong (you'll notice the styles are
+  pretty lean, on purpose, apps should style this however they'd like)
+- tests (eventually)
 
-- name: ansible-lint
-  uses: ansible/ansible-lint-action@v4.1.0.post0
+# Tests!
+
+Run them:
+`npm test`
+
+Write them:
+`lib/__tests__/Autocomplete-test.js`
+
+Check your work:
+`npm run coverage`
 
 
-UserRoutes = {};
-
-//`routes` needs to be accessible on the module
-UserRoutes.routes = {
-    get: [
-      { path: '/user/:email',
-        funcs: [
-          someMiddleWare,
-          helpers.awaitHandlerFactory(async (req, res, next) => {
-            const result = await someAsyncProcess();
-          }),
-          anotherFunction(req, res, next)
-        ]
-      }
-    ],
-    post: [
-      { path: '/user',
-        funcs: [
-          helpers.awaitHandlerFactory(async (req, res, next) => {
-            //lots of awesome code
-          });
-        ]
-      }
-    ]
-};
-
-module.exports = UserRoutes;
-
-
-- name: Jira issue from TODO
-  uses: atlassian/gajira-todo@v2.0.1
-- name: Jira Issue Transition
-  uses: atlassian/gajira-transition@v2.0.2
-- name: Create IssueHunt comment for opened issues
-  uses: goatandsheep/issuehunt-action@v1.0.0
-- name: Issue projector
-  uses: dhruvkb/issue-projector@0.0.7
-- name: ZenHub link PR to issue with Branch Prefixes
-  uses: OBannon37/zenhub-link-pr-to-issue@v0.1.4
-}
-
-
-* [dotnet/sdk](https://hub.docker.com/_/microsoft-dotnet-sdk/): .NET SDK
-* [dotnet/aspnet](https://hub.docker.com/_/microsoft-dotnet-aspnet/): ASP.NET Core Runtime
-* [dotnet/runtime](https://hub.docker.com/_/microsoft-dotnet-runtime/): .NET Runtime
-* [dotnet/runtime-deps](https://hub.docker.com/_/microsoft-dotnet-runtime-deps/): .NET Runtime Dependencies
-* [dotnet/monitor](https://hub.docker.com/_/microsoft-dotnet-monitor/): .NET Monitor Tool
-* [dotnet/samples](https://hub.docker.com/_/microsoft-dotnet-samples/): .NET Samples
+git@github.com:jamalid/gojek.git
