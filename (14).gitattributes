@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+*.css linguist-vendored
+*.* linguist-language=Markdown
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> SonjayaJetBrain-patch-1
