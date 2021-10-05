@@ -52,7 +52,7 @@
     "lint": "^1.1.2",
     "lint-staged": "^10.2.11",
     "markdownlint": "^0.23.1",
-    "markdownlint-cli": "^0.27.1",
+    "markdownlint-cli": "^0.29.0",
     "minimist": "^1.2.5",
     "nugget": "^2.0.1",
     "null-loader": "^4.0.0",
