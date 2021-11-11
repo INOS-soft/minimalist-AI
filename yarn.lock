@@ -40,10 +40,10 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.2.tgz#8f03a22a04de437254e8ce8cc84ba39689288752"
   integrity sha512-HyYEUDeIj5rRQU2Hk5HTB2uHsbRQpF70nvMhVzi+VJR0X+xNEhjPui4/kBf3VeH/wqD28PT4sVOm8qqLjBrSZg==
 
-"@electron/docs-parser@^0.12.2":
-  version "0.12.2"
-  resolved "https://registry.yarnpkg.com/@electron/docs-parser/-/docs-parser-0.12.2.tgz#42ac92404058411be4155b25320b96192da85ba5"
-  integrity sha512-81l/jlz21VvTOZ21NyY1gd63ZPT/Ny0vY/nu9iYb2FkaGThMvy2xKNHifPcOTDkT+94jK0D8f7eUMDh75FIqCw==
+"@electron/docs-parser@^0.12.3":
+  version "0.12.3"
+  resolved "https://registry.yarnpkg.com/@electron/docs-parser/-/docs-parser-0.12.3.tgz#a984c5ebc60348683b2acdbb0ebb73414b6763fd"
+  integrity sha512-e7OKn/NNAHMZ4Pw1702MHd2VE3Z5NKdXIIDxg9nWsDBUuSCuOKRCb4i0Ev8Eev0V0nKLaH+NMz6yzovpx0PrHg==
   dependencies:
     "@types/markdown-it" "^10.0.0"
     chai "^4.2.0"
