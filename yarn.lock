@@ -631,10 +631,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/stream-json@^1.5.1":
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/@types/stream-json/-/stream-json-1.5.1.tgz#ae8d1133f9f920e18c6e94b233cb57d014a47b8d"
-  integrity sha512-Blg6GJbKVEB1J/y/2Tv+WrYiMzPTIqyuZ+zWDJtAF8Mo8A2XQh/lkSX4EYiM+qtS+GY8ThdGi6gGA9h4sjvL+g==
+"@types/stream-json@^1.7.2":
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/@types/stream-json/-/stream-json-1.7.2.tgz#8d7f1cc3a37a9a402a4af284348499cdf5e28248"
+  integrity sha512-i4LE2aWVb1R3p/Z6S6Sw9kmmOs4Drhg0SybZUyfM499I1c8p7MUKZHs4Sg9jL5eu4mDmcgfQ6eGIG3+rmfUWYw==
   dependencies:
     "@types/node" "*"
     "@types/stream-chain" "*"
