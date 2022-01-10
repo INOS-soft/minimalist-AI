@@ -33,7 +33,7 @@
     "asar": "^3.0.3",
     "aws-sdk": "^2.934.0",
     "check-for-leaks": "^1.2.1",
-    "colors": "^1.4.0",
+    "colors": "^1.4.2",
     "dotenv-safe": "^8.2.0",
     "dugite": "^1.45.0",
     "eslint": "^7.29.0",
