@@ -276,10 +276,10 @@
   dependencies:
     "@octokit/openapi-types" "^10.0.0"
 
-"@primer/octicons@^15.1.0":
-  version "15.1.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-15.1.0.tgz#4bf2570d69359bf711aa223200a4d816524ca165"
-  integrity sha512-dRfjeDG+JUNKivxs8xGba34NlLJDbNDGGkYIfLJLT7D/c1UTx6xFc+gPC6IWosVLYoUUnup8CkXDNOfT1d2LxA==
+"@primer/octicons@^16.3.1":
+  version "16.3.1"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-16.3.1.tgz#f52ed3a643d2da995abbcd98b2f54447bf29c808"
+  integrity sha512-J3IlK0Ok88RQZVB//af7Lnl1Vw2buyyr5G3oEvK1wRSYTJi/E/HBm5JZUihmDAtm/unr85FC534DwA5e+4LR2w==
   dependencies:
     object-assign "^4.1.1"
 
