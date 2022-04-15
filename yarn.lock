@@ -1873,10 +1873,10 @@ dotenv@^8.2.0:
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
   integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
 
-dugite@^1.45.0:
-  version "1.102.0"
-  resolved "https://registry.yarnpkg.com/dugite/-/dugite-1.102.0.tgz#15fde8ec6726f03dabcee06e7e5ee5492bf9bf74"
-  integrity sha512-z3eqQd0sCAt/6HgEDFDKw/VFp9LJG5v7MpR0wQAZh4Y/vz/pt5rdjJozVGVX9kGP3sHbIVz251Ooi8lrLupUeQ==
+dugite@^1.108.0:
+  version "1.108.0"
+  resolved "https://registry.yarnpkg.com/dugite/-/dugite-1.108.0.tgz#85f3ad9c4c209d2cd4dbfe24687ad40f49c8c4a4"
+  integrity sha512-2wwkZM2mJuoxuePFlfNh+UhWWLoorz5kud3L5qjBWQ0ZQi99OUZGtnDesJwc8e9WHtpwHjYGbl1MEgYi1GEgiA==
   dependencies:
     checksum "^0.1.1"
     got "^9.6.0"
