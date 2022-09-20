@@ -630,10 +630,10 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
-"@types/split@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/split/-/split-1.0.0.tgz#24f7c35707450b002f203383228f5a2bc1e6c228"
-  integrity sha512-pm9S1mkr+av0j7D6pFyqhBxXDbnbO9gqj4nb8DtGtCewvj0XhIv089SSwXrjrIizT1UquO8/h83hCut0pa3u8A==
+"@types/split@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@types/split/-/split-1.0.2.tgz#a59dae73a89108fc2157581b7afd08629c9fff96"
+  integrity sha512-JNsPY3LO6gsk8kTA5k+ozdJN9M3Tvh/H2V1Q9UhM460yqJ/aEnRV89NaVJj/1YnN7JFRPlFGT4yOp0/ybw6TmQ==
   dependencies:
     "@types/node" "*"
     "@types/through" "*"
