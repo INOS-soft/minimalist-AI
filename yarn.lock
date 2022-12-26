@@ -645,10 +645,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/stream-json@^1.5.1":
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/@types/stream-json/-/stream-json-1.5.1.tgz#ae8d1133f9f920e18c6e94b233cb57d014a47b8d"
-  integrity sha512-Blg6GJbKVEB1J/y/2Tv+WrYiMzPTIqyuZ+zWDJtAF8Mo8A2XQh/lkSX4EYiM+qtS+GY8ThdGi6gGA9h4sjvL+g==
+"@types/stream-json@^1.7.3":
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/@types/stream-json/-/stream-json-1.7.3.tgz#5596405be23c7db1b6fb9cb977b942b9e1d219df"
+  integrity sha512-Jqsyq5VPOTWorvEmzWhEWH5tJnHA+bB8vt/Zzb11vSDj8esfSHDMj2rbVjP0mfJQzl3YBJSXBBq08iiyaBK3KA==
   dependencies:
     "@types/node" "*"
     "@types/stream-chain" "*"
@@ -6063,17 +6063,17 @@ standard@^14.3.1:
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-1.5.0.tgz#161c7dac177659fd9811f43771fa99381478628c"
   integrity sha1-Fhx9rBd2Wf2YEfQ3cfqZOBR4Yow=
 
-stream-chain@^2.2.3:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/stream-chain/-/stream-chain-2.2.4.tgz#2e5e9858e00d25ebaf7e4339e8328ddcab5facad"
-  integrity sha512-9lsl3YM53V5N/I1C2uJtc3Kavyi3kNYN83VkKb/bMWRk7D9imiFyUPYa0PoZbLohSVOX1mYE9YsmwObZUsth6Q==
+stream-chain@^2.2.5:
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/stream-chain/-/stream-chain-2.2.5.tgz#b30967e8f14ee033c5b9a19bbe8a2cba90ba0d09"
+  integrity sha512-1TJmBx6aSWqZ4tx7aTpBDXK0/e2hhcNSTV8+CbFJtDjbb+I1mZ8lHit0Grw9GRT+6JbIrrDd8esncgBi8aBXGA==
 
-stream-json@^1.7.1:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/stream-json/-/stream-json-1.7.1.tgz#ec7e414c2eba456c89a4b4e5223794eabc3860c4"
-  integrity sha512-I7g0IDqvdJXbJ279/D3ZoTx0VMhmKnEF7u38CffeWdF8bfpMPsLo+5fWnkNjO2GU/JjWaRjdH+zmH03q+XGXFw==
+stream-json@^1.7.5:
+  version "1.7.5"
+  resolved "https://registry.yarnpkg.com/stream-json/-/stream-json-1.7.5.tgz#2ff0563011f22cea4f6a28dbfc0344a53c761fe4"
+  integrity sha512-NSkoVduGakxZ8a+pTPUlcGEeAGQpWL9rKJhOFCV+J/QtdQUEU5vtBgVg6eJXn8JB8RZvpbJWZGvXkhz70MLWoA==
   dependencies:
-    stream-chain "^2.2.3"
+    stream-chain "^2.2.5"
 
 string-argv@0.3.1:
   version "0.3.1"
