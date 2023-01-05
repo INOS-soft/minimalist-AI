@@ -31,7 +31,7 @@
     "@typescript-eslint/eslint-plugin": "^4.28.0",
     "@typescript-eslint/parser": "^4.28.0",
     "asar": "^3.0.3",
-    "aws-sdk": "^2.934.0",
+    "aws-sdk": "^2.1288.0",
     "check-for-leaks": "^1.2.1",
     "colors": "^1.4.0",
     "dotenv-safe": "^8.2.0",
